@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Music Store Analysis project leverages a multi-table database to gain insights into sales, customer preferences, and inventory management. By utilizing SQL queries, this project extracts, manipulates, and analyzes data to identify trends and support informed decision-makin
+The Music Store Analysis project leverages a multi-table database to gain insights into sales, customer preferences, and inventory management. By utilizing SQL queries, this project extracts, manipulates, and analyzes data to identify trends and support informed decision-making.
 
 ## Key Features
 
